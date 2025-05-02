@@ -21,7 +21,7 @@
 </div>
 :man_technologist: About Me : 
 I'm a novice developer from Russia.
-> ## Statistics 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=masterSorokoum&theme=tokyonight&show_icons=true) 
 
